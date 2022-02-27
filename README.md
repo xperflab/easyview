@@ -4,8 +4,8 @@ EasyView is a general visualizer for performance tools. It supports widely used 
 EasyView is available as an extension of vscode at [vscode market](https://marketplace.visualstudio.com/items?itemName=xuhpclib-easyview.easyview). EasyView enjoys the following unique features.
 
 1. **Easy deployment**. EasyView, tightly integrated in vscode, only needs 1-click installation in vscode marketplace. All the analysis and visualization work is done on the local machine, with no server or other software installation needed. 
-2. **Easy visualization**. EasyView can visualize profiles in top-down, bottom-up, and flat views presented in the form of flamegraphs and tree tables. EasyView associates both flamegraphs and tree tables with source code in vscode.  
-3. **Easy exploration**. EasyView supports smooth exploration of large profiles. Compared to the other profile visualizer, EasyView can handle orders of magnitudes larger profiles, accelerate profile analysis by 50X faster, and yield high frame per second for interaction.
+2. **Easy visualization**. EasyView can visualize profiles in top-down, bottom-up, and flat views presented in the form of flamegraphs and tree tables. EasyView supports multiple metrics and associates both flamegraphs and tree tables with source code in vscode.  
+3. **Easy exploration**. EasyView supports smooth exploration of large profiles. Compared to the other profile visualizer, EasyView can handle orders of magnitudes larger profiles, accelerate profile analysis by 50X faster, and yield high frames per second (FPS) for user interaction.
 
 ## Usage
 
