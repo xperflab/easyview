@@ -44,3 +44,7 @@ Once the profile is generated, there are three ways to open it.
 Click the following video and watch a short demo on YouTube.
 
 [![YouTube](./res/YouTube.png)](https://youtu.be/NKS3pIe3-qQ)
+
+## Survey
+
+Please fill out the [survey form](https://docs.google.com/forms/d/e/1FAIpQLSf_5h6DeMtAJPazxjZzZR88yydvtaXbQ8s2E-iR7nIiSPekQg/viewform) to help us improve EasyView. The survey is approved under NCSU IRB.
