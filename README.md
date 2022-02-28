@@ -7,7 +7,7 @@ EasyView is available as an extension of vscode at [vscode market](https://marke
 2. **Easy visualization**. EasyView can visualize profiles in top-down, bottom-up, and flat views presented in the form of flamegraphs and tree tables. EasyView supports multiple metrics and associates both flamegraphs and tree tables with source code in vscode.  
 3. **Easy exploration**. EasyView supports smooth exploration of large profiles. Compared to the other profile visualizer, EasyView can handle profiles whose sizes are orders of magnitudes larger than existing tools can handle, accelerate profile analysis by 50X faster, and yield high frames per second (FPS) for user interaction.
 
-One can find an introduction of EasyView on [YouTube](https://www.youtube.com/watch?v=NKS3pIe3-qQ).
+
 ## Usage
 
 ### Install EasyView
@@ -38,10 +38,9 @@ Once the profile is generated, there are three ways to open it.
 
 (2) Click the file to open it with the EasyView by default.
 
-### Use case
 
-#### A demo to explore EasyView
+## A demo for using EasyView
 
-Please refer to a short video on 
+Click the following video and watch a short demo on YouTube.
 
 [![YouTube](./res/YouTube.png)](https://youtu.be/NKS3pIe3-qQ)
