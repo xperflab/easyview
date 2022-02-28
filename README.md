@@ -42,4 +42,6 @@ Once the profile is generated, there are three ways to open it.
 
 #### A demo to explore EasyView
 
-Please refer to a short video on [YouTube]().
+Please refer to a short video on 
+
+[![YouTube](./res/YouTube.png)](https://youtu.be/NKS3pIe3-qQ)
