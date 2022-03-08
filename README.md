@@ -28,7 +28,7 @@ Once the profile is generated, there are three ways to open it.
 
 #### 2. Make EasyView as the default view by changing the file extension suffix
 
-(1) Add an extension suffix (***.drcctprof***) to the unzipped profile file.
+(1) Add an extension suffix (***.ezview***) to the unzipped profile file.
 
 (2) Click the file to open it with the EasyView by default.
 
