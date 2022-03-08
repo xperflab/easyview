@@ -26,13 +26,7 @@ Once the profile is generated, there are three ways to open it.
 
 (2) Click "show EasyView".
 
-#### 2. Open EasyView with vscode Editor View
-
-(1) Click the profile file to open it with editor view.
-
-(2) Click the "show EasyView" button on the top right of the editor view.
-
-#### 3. Make EasyView as the default view by changing the file extension suffix
+#### 2. Make EasyView as the default view by changing the file extension suffix
 
 (1) Add an extension suffix (***.drcctprof***) to the unzipped profile file.
 
